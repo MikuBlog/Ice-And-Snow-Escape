@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "man_left",
+    "texture": "95498498-ab10-4cda-af05-c11a1527020f",
+    "atlas": "",
+    "rect": [
+      73,
+      35,
+      207,
+      220
+    ],
+    "offset": [
+      25,
+      7
+    ],
+    "originalSize": [
+      303,
+      304
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

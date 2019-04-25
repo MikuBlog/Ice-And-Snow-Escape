@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boy_jump_right",
+    "texture": "7131600b-361c-46f8-bfc7-0bf4682171a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

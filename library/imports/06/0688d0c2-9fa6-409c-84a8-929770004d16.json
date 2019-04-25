@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boy_stand",
+    "texture": "bbc74305-169d-4fb2-8c4a-6cfd198c077e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      166
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

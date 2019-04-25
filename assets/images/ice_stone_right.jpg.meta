@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0500cf00-8a72-4d0d-bc9a-60856eb9d995",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ice_stone_right": {
+      "ver": "1.0.3",
+      "uuid": "ef62f37d-77ee-44e0-afc7-00ee37dbde8c",
+      "rawTextureUuid": "0500cf00-8a72-4d0d-bc9a-60856eb9d995",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 307,
+      "height": 261,
+      "rawWidth": 307,
+      "rawHeight": 261,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

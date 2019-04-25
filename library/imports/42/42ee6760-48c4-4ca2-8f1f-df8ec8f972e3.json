@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ice_flower",
+    "texture": "baafcea7-73e3-46ac-83e3-9b87e81104d0",
+    "atlas": "",
+    "rect": [
+      16,
+      8,
+      128,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wooden_right",
+    "texture": "8d2827d9-346b-4cd9-b4b5-3f390cc6c066",
+    "atlas": "",
+    "rect": [
+      16,
+      9,
+      180,
+      775
+    ],
+    "offset": [
+      4.5,
+      3.5
+    ],
+    "originalSize": [
+      203,
+      800
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
